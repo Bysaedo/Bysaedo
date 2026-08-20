@@ -1,5 +1,5 @@
 # 💫 About Me:
-Current IT Web and Software Developer student at Milwaukee Area Technical College. Proficiency in both front-end and back-end development, including modern frameworks and multiple programming languages. Seeking a software developer internship.
+IT Web and Software Developer A.S grad, pursuing a B.S. in Computer Science. Proficiency in both front-end and back-end development, including modern frameworks and multiple programming languages. Seeking a software developer internship.
 
 
 ## 🌐 Socials:
